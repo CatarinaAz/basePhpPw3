@@ -19,8 +19,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<div class="row">
 			<div class="col-12">
 			<div class="jumbotron">
-  				<h1 class="display-4">Salve Quebrada!</h1>
-  				<p class="lead">Apredendo a criar site bro</p>
+  				<h1 class="display-4">Bem vindo!</h1>
+  				<p class="lead">Apredendo a criar site</p>
 				</div>
 			</div>
 		</div>
@@ -28,13 +28,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="col-12">
 			<ul class="nav">
 				<li class="nav-item">
-					<a class="nav-link active" href="#">Active</a>
+					<a class="nav-link active" href="#">Home</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Link</a>
+					<a class="nav-link" href="#">Adoção</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Link</a>
+					<a class="nav-link" href="#">Produtos pet</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
@@ -98,6 +98,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 		</div>
 	</div>
-
+				
 </body>
 </html>
