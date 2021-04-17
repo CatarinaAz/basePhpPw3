@@ -104,7 +104,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</div>
 		<div class="row">
 			<div class="col-12 rodape">
-				<p>Css não está funcionando</p>
+				<p></p>
 			</div>
 		</div>
 	</div>
