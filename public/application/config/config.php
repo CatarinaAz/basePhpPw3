@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://8001-maroon-giraffe-y67u3j4u.ws-us03.gitpod.io/';
+$config['base_url'] = 'https://8001-emerald-limpet-9qbxuixc.ws-us03.gitpod.io/';
 
 /*
 |--------------------------------------------------------------------------
