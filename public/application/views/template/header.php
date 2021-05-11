@@ -24,13 +24,16 @@
 			<div class="col-12">
 			<ul class="nav">
 				<li class="nav-item">
-					<a class="nav-link active" href="#">Home</a>
+					<a class="nav-link active" href="<?php echo base_url() ?>principal">Home</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Adoção</a>
+					<a class="nav-link" href="<?php echo base_url() ?>adocao">Adoção</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Produtos pet</a>
+					<a class="nav-link" href="<?php echo base_url() ?>produtos">Produtos pet</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="<?php echo base_url() ?>cadastro">Cadastro</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
